@@ -6,6 +6,48 @@ A professional magazine layout generator that creates stunning A4 spread designs
 
 This project demonstrates high-end graphic design capabilities by automatically generating 10 unique magazine-style PDF layouts, each featuring a different Wikipedia article with professional typography, balanced composition, and modern editorial design principles.
 
+## 🖼️ Layout Gallery
+
+### 01. Quantum Entanglement - Minimalist Typography
+![Layout 01](previews/layout_01_Quantum_Entanglement-1.png)
+*Clean, bold headlines with generous whitespace and strong accent lines*
+
+### 02. Art Nouveau Architecture - Grid Modern
+![Layout 02](previews/layout_02_Art_Nouveau_Architecture-1.png)
+*Three-column layout with centered title and geometric accents*
+
+### 03. The Viking Age - Asymmetric Bold
+![Layout 03](previews/layout_03_The_Viking_Age-1.png)
+*Dynamic rotated elements with offset columns and geometric shapes*
+
+### 04. Bioluminescence - Classic Editorial
+![Layout 04](previews/layout_04_Bioluminescence-1.png)
+*Traditional drop cap with serif typography and ornamental elements*
+
+### 05. Baroque Music - Contemporary Geometric
+![Layout 05](previews/layout_05_Baroque_Music-1.png)
+*Modern shapes with mixed column widths and geometric framing*
+
+### 06. The Silk Road - Swiss Style
+![Layout 06](previews/layout_06_The_Silk_Road-1.png)
+*International Typographic Style with grid precision and clean lines*
+
+### 07. Artificial Intelligence - Bold Brutalist
+![Layout 07](previews/layout_07_Artificial_Intelligence-1.png)
+*Raw, powerful design with high contrast and bold blocks*
+
+### 08. Gothic Cathedrals - Elegant Serif
+![Layout 08](previews/layout_08_Gothic_Cathedrals-1.png)
+*Refined, classical approach with ornamental details and decorative flourishes*
+
+### 09. Coffee Culture - Modern Tech
+![Layout 09](previews/layout_09_Coffee_Culture-1.png)
+*Futuristic aesthetic with diagonal elements and tech-inspired brackets*
+
+### 10. The Northern Lights - Magazine Editorial
+![Layout 10](previews/layout_10_The_Northern_Lights-1.png)
+*High-end editorial with pullquotes and feature numbers*
+
 ## ✨ Features
 
 - **10 Distinct Design Styles**: Each layout showcases a different editorial design approach
@@ -57,6 +99,11 @@ This project demonstrates high-end graphic design capabilities by automatically 
 │   ├── layout_01_Quantum_Entanglement.pdf
 │   ├── layout_02_Art_Nouveau_Architecture.pdf
 │   └── ... (10 total PDFs)
+├── previews/                    # PNG preview images
+│   ├── layout_01_Quantum_Entanglement-1.png
+│   ├── layout_02_Art_Nouveau_Architecture-1.png
+│   └── ... (10 total previews)
+├── wikipedia_magazine_layouts.zip  # Complete archive
 └── README.md                    # This file
 ```
 
@@ -183,7 +230,12 @@ This project demonstrates:
 
 ## 🏆 Results
 
-Successfully generated 10 stunning PDF layouts totaling ~225KB, each showcasing professional magazine-quality editorial design with unique typographic treatments and balanced compositions.
+Successfully generated:
+- **10 PDF layouts** (~225KB total) - Professional magazine-quality editorial designs
+- **10 PNG previews** (~688KB total) - High-quality preview images for each layout
+- **Complete ZIP archive** (~208KB) - All PDFs bundled for easy download
+
+Each layout showcases unique typographic treatments and balanced compositions suitable for print publication.
 
 ---
 
